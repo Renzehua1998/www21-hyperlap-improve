@@ -8,7 +8,4 @@ This repository is based on [young917](https://github.com/young917)'s work [www2
 
 - My demo video:
 
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe 
-src="//player.bilibili.com/player.html?aid=596359456&bvid=BV1HB4y127g3&cid=713609257&page=1" scrolling="no" border="0" 
-frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; 
-height: 100%; left: 0; top: 0;"> </iframe></div>
+[![](https://bb-embed.herokuapp.com/embed?v=BV1HB4y127g3)](https://player.bilibili.com/player.html?aid=596359456&bvid=BV1HB4y127g3&cid=713609257&page=1)
